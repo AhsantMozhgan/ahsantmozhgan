@@ -2,7 +2,7 @@
 
 I'm a passionate Computer Science graduate from San Francisco State University (Class of 2024) with a GPA of 3.66, specializing in full-stack JavaScript/TypeScript development. 
 
-I have hands-on experience with technologies like **JavaScript**, **TypeScript**, **React**, **Node.js**, and **PostgreSQL**, and I'm passionate about creating seamless user experiences. I enjoy building complete web applications from frontend to backend, including database design and authentication systems.
+I have hands-on experience with technologies like **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, and **PostgreSQL**, and I'm passionate about creating seamless user experiences. I enjoy building complete web applications from frontend to backend, including database design and authentication systems.
 
 I have developed several projects, including a full-fledged e-commerce platform using the MERN stack, which emphasizes my ability to deliver impactful solutions. I'm excited to apply my skills and grow as a software engineer in the industry.
 
